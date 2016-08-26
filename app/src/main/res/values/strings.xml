@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+
+    <string name="failed_update">Updating list of movies failed!</string>
+    <string name="released_on">Released on</string>
+    <string name="average_rating">Vote average</string>
+    <string name="movie_sorting">Sort movies by</string>
+    <string name="settings">Settings</string>
+    <string-array name="sort_options">
+        <item>Most popular</item>
+        <item>Top rated</item>
+    </string-array>
+
+</resources>
